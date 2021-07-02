@@ -1,1 +1,2 @@
-git is what I want to learn
+Git is a distributed version control system.
+Git is free software.
